@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '!-g7^i@=-a8vu()g$7d1$n29m43(23uep()^(n-(%%m^gh^ky#'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['socialite01.herokuapp.com',
                  'mysite.com',
